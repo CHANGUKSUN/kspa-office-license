@@ -1,0 +1,3 @@
+KSPA-LICENSE-1
+{"product":"kspa-team-office","kind":"license-list","issued":"2026-11-12T02:23:57.552Z","stop_all":false,"message":null,"seats":[{"id":"KSPA-E169-2E34-0EA7","until":null,"stop":false}]}
+LplGIgQIJa/nELyppraDgCvyPmZs8OB11l0bG8ZSFnf/+Y9mxEfl1t3vuvlBSBquvTBjtcEP7SJFELG8tC0tDA==
